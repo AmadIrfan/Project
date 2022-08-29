@@ -1,0 +1,2 @@
+ta();
+     // init_array();
